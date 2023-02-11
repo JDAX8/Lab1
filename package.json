@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "mathjs": "^11.5.1"
+  },
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "Primer trabajo de Algortimos",
+  "main": "}",
+  "devDependencies": {
+    "xorshift": "^1.2.0"
+  },
+  "scripts": {
+    "start": "node Lab1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JDAX8/Lab1.git"
+  },
+  "author": "JuanDavid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JDAX8/Lab1/issues"
+  },
+  "homepage": "https://github.com/JDAX8/Lab1#readme"
+}
